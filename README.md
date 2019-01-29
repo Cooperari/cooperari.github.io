@@ -1,4 +1,5 @@
-# cooperari.org
+# cooperari.org (GitHub pages for Cooperari)
 
-For now this redirects to [bitbucket's Cooperari webpage](https://bitbucket.org/edrdo/cooperari).
+For now this redirects to [Cooperari's source code repository](https://github.com/Cooperari/cooperari).
 
+You may access [http://cooperari.org/javadoc](http://cooperari.org/javadoc) though for the Javadoc documentation of the latest release.
