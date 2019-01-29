@@ -1,0 +1,16 @@
+org.cooperari
+org.cooperari.config
+org.cooperari.core
+org.cooperari.core.aspectj
+org.cooperari.core.scheduling
+org.cooperari.core.util
+org.cooperari.errors
+org.cooperari.feature
+org.cooperari.feature.atomic
+org.cooperari.feature.data
+org.cooperari.feature.hotspots
+org.cooperari.feature.monitor
+org.cooperari.feature.thread
+org.cooperari.feature.threadrunner
+org.cooperari.feature.unsafe
+org.cooperari.junit
